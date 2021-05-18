@@ -1,7 +1,5 @@
 # st21-busking-radar
-Client: CRA(Create React App) with Functional Components and Hooks, Redux (state Managment), Thunk(middleware), axios(sending http requests), Node-Sass(styling), Moment.js and react-dates(managing dates) 
 
-Server: Node.js with Express, Cors(controlling access)
 
 1. Work Plan and Deadlines
 - Together
@@ -74,16 +72,21 @@ the contacts of the musicians for survey collected
 had a meeting and outlined the most feasible and important features of the app
 
 Week 1/Due 25 May
+- Prepare surveys and collect data from buskers/fans, in order to understand what would be best to include
 
 Week 2/Due 1 June
 - Finish prototype? 
-(It would be perfect if WD could have it by that date, but correct me if it is too unrealistic)
+(It would be perfect if WD could have it by that date, but correct me if it is too unrealistic) -> For the prototype it won't be too unrealistic, however, if you want the actual design of the app with the logo, colors etc., we cannot manage to do it so fast. 
 
 Week 3/Due 8 June
+- Receive feedback for the prototype and fix/add anything if needed
+- Start creating the integral app with all the details and content
 
 Week 4/Due 15 June
+- Finish app and feedback
 
 Week 5/Due 22 June
+- Finish app and feedback
 
 Week 6/Due 29 June
 
