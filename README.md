@@ -1,127 +1,41 @@
 # st21-busking-radar
 
+What is Busking Radar?
 
-1. Work Plan and Deadlines
-- Together
+Busking Radar is an app that makes outdoor live entertainment easily discoverable for any user and helps buskers draw a larger audience to their performances. 
 
-Week 0/due 17 May
-- Collect as much data about the topic as possible.
-- Develop an elaborate plan and tasks.
-- Establish a good team communication.
-- Maybe: Finding Boiler plates for MERN stack?!
+Here's some background:
 
+Why build such an app? 
 
-- WD
+Street performances are a way for artists to earn some income & build a fanbase. This app would allow a day to day opportunity for the buskers to attract an audience.
+From the fans point of view, street performances are a way to see live entertainment for free. With this app, we make live street performance easily discoverable. 
 
-Week 1/Due 25 May
-- Together: 
-Decide on the project structure (folders structure)
-- BackEnd: 
-Initialize Express App;
-Create a server;
-Start working on a database (Mongo DB);
-Start working on authetication features;
-- Front End:
-Initialize CRA(Create React App) for client side of application;
-The component with registration and sign in forms;
+What is the motivation?
 
-Week 2/Due 1 June
-- BackEnd: 
-Finish preliminary database schema and connect it to server;
-Finish user authentication; 
-- FrontEnd: 
-finish user registration and sign in forms;
-- Both:
-finish user authentication. After user register or sign in, he is pushed to landing page.
+This app could help support a valuable cultural trait (street performance) and allow it to thrive. 
+During the pandemic, street performances are one of the few cultural activities, which people can experience. The app could help the public find out about those performances.
 
-Week 3/Due 8 June
-- Start to work with the UX prototype
+What user problems are you attempting to solve?
 
-Week 4/Due 15 June
-- testing;
+Connecting users to outdoor live entertainment. 
+Provide buskers with the information about city regulations concerning street music performances (This is something that we later included as our Post MVP)
+Allow users to access a "library" of public events with all the necessary information in just one app (ex. type of live entertainment, time, number of users participating at the event, rating of the performer (Post MVP) etc.)
 
-Week 5/Due 22 June
-- Styling;
+What's our goal?
 
-Week 6/Due 29 June
-- Styling and testing;
+Our GOAL is to create a platform with a user-friendly interface, which would make outdoor live entertainment easily discoverable for any user and in this way help buskers to draw a larger audience to their performances.
 
-- DS
-Week 0
-- Padcha: MockUp data with users finished
+What's NOT our goal?
 
-Week 1/Due 25 May
+What we do NOT want to do is not to create a social network for buskers and fans. The main focus should be on performances and their "advertisement" (ways that buskers can promote their live performances). 
+
+Usability: 
+
+How can I use the app? 
+If you are a busker, we recommend you to sign up for Busking Radar and create a profile, in order to access all the benefits that we offer for the buskers. 
+When you register, you will have the possibility to create events with the interactive map and let people know about your performances!
+If you are a fan, we currently advise you to "Enter as a guest", in order to see all the events happening near your location. Our future plans include the fan to be able to sign up as a "FAN" and thus be able to favourite artists and get notifications on future events. 
 
 
-Week 2/Due 1 June
 
-Week 3/Due 8 June
-
-Week 4/Due 15 June
-
-Week 5/Due 22 June
-
-Week 6/Due 29 June
-
-- UX
-
-Week 0
-- Ken: 
-the contacts of the musicians for survey collected
-- UX team: 
-had a meeting and outlined the most feasible and important features of the app
-
-Week 1/Due 25 May
-
-Week 2/Due 1 June
-- Finish prototype? 
-(It would be perfect if WD could have it by that date, but correct me if it is too unrealistic)
-
-Week 3/Due 8 June
-
-Week 4/Due 15 June
-
-Week 5/Due 22 June
-
-Week 6/Due 29 June
-
-
-2. Pages: 
-
-- Landing Page:
-List of events
-Interactive map with events
-(Add Event Button/Page?!)
-
-- List of Buskers Page:
-List of Buskers profiles
-
-- Profile page/Buskers:
-UserName:
-ArtistName:
-Genre:
-Based in:
-List of events created:
-Spotify:
-Facebook: 
-Youtube: 
-Followers/Subscribers(Build first what is easier?!)
-
-- Profile page/Other users:
-UserName:
-List of events planned to visit and visited: 
-List of favorite artists (Nice to have/not crucial): 
-
-- Street Music in Berlin page:
-info about street music in Berlin
-popular locations
-
-- About page:
-Info about project
-
-3 Project structure (folders)
-- /Busking Radar (main folder and the server side folder):
-- files: package.json, index.js
-- folders: client
-
-- /Busking Radar/Client (Front End Side folder, inialized with CRA):
